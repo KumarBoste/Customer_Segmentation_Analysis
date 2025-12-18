@@ -1,2 +1,1 @@
-# Customer_Segmentation_Analysis
-Excel
+# Customer Segmentation Analysis ( Excel )
