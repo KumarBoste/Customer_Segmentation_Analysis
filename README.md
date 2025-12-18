@@ -1,4 +1,5 @@
 # Customer Segmentation Analysis ( Excel )
+![Dashboard](https://github.com/KumarBoste/Customer_Segmentation_Analysis/blob/main/Excel%20Dashboard/Customer%20Segmentation%20Dashboard.png)
 
 ## Project Objective
 The primary objective of this project is to analyze and segment customers based on demographics, income, tenure, profession, loyalty, and geographic regions.
